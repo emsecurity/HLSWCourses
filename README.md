@@ -16,7 +16,7 @@
       * 논리회로 설계: 실습시에 회로 설계 및 시뮬레이션을 위하여 오픈소스 SW인 **[LogiSim](http://www.cburch.com/logisim/)** 활용   
    * 2학기
       * 오픈소스SW 이해
-      * 컴퓨터구조: 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용
+      * 컴퓨터구조: 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용. [link](http://spimsimulator.sourceforge.net/)
 
 * * *
 
