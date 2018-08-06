@@ -29,4 +29,4 @@
 * **4학년 과정**
    * 1학기
    * 2학기
-      * [병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall)
+      * [병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall): AWS Cloud *LINUX* 환경에서 실습
