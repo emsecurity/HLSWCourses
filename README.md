@@ -7,9 +7,9 @@
 * **1학년 과정**
    * 1학기
    * 2학기
-      * 자바프로그래밍I / 자바프로그래밍II    
-      * 오픈소스 리눅스 활용: Linux 활용한 오픈소스 SW 소개 및 흥미 유발 과정
-      * 선형대수
+      * 자바프로그래밍I / 자바프로그래밍II: 오픈소스 SW *Eclipse* 활용
+      * 오픈소스 리눅스 활용: *Linux* 활용한 오픈소스 SW 소개 및 흥미 유발 과정
+      * 선형대수: Python / R 오픈소스 SW 라이브러리 활용
 
 * * *
 
@@ -19,10 +19,10 @@
    * 2학기
       * C프로그래밍
       * C++프로그래밍
-      * 알고리즘
-      * 파이썬프로그래밍응용
+      * 알고리즘: 자바 및 *Eclipse* 활용
+      * 파이썬프로그래밍응용: 파이썬 오픈소스 SW 라이브러리 활용
       * 프로그래밍스튜디오
-      * 오픈소스SW 이해
+      * 오픈소스SW 이해: Github 활용
       * [컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall): 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용. [[link](http://spimsimulator.sourceforge.net/)]
       * 임베디드시스템
       * 데이터통신
@@ -47,7 +47,7 @@
       * 텍스트정보처리
       * 머신러닝
       * 클라우드컴퓨팅
-      * 병렬프로그래밍
+      * [병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall): AWS Cloud *LINUX* 환경에서 실습
       * 빅데이터응용
       * VR/AR이론
       * 게임프로그래밍
@@ -67,7 +67,6 @@
       * 빅데이터캡스톤디자인
       * 콘텐츠IT캡스톤디자인
       * 스마트IoT캡스톤디자인
-      * [병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall): AWS Cloud *LINUX* 환경에서 실습
       * 햅틱인터랙션
       * GPU프로그래밍
       * IoT플랫폼응용
