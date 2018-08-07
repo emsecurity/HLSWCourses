@@ -51,7 +51,7 @@
       * 오픈소스SW개발도구활용
       * 소프트웨어특강
       * 텍스트정보처리
-      * 머신러닝
+      * 머신러닝: 머신러닝 실습을 위해 Tensorflow, Scikit-learn, numpy/pandas 활용
       * 클라우드컴퓨팅
       * [병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall): AWS Cloud *LINUX* 환경에서 실습
       * 빅데이터응용
