@@ -30,7 +30,7 @@
       * 프로그래밍스튜디오
       * 오픈소스SW 이해: Github 활용
       * [컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall): 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용. [[link](http://spimsimulator.sourceforge.net/)]
-      * 임베디드시스템
+      * [임베디드시스템](https://github.com/CIC-LAB/Embedded_system_2018-2)
       * 데이터통신
       * 데이터베이스
       * VR/AR/게임제작기초
