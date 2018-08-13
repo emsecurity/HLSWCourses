@@ -33,7 +33,7 @@
       * [임베디드시스템](https://github.com/CIC-LAB/Embedded_system_2018-2)
       * 데이터통신
       * 데이터베이스
-      * VR/AR/게임제작기초
+      * VR/AR/게임제작기초: 오픈소스 SW [Unity3D](https://docs.unity3d.com/kr/2018.1/Manual/ContributingToUnity.html) 활용한 VR/AR/게임 교육
       * 디지털신호처리
       * SW실전영어II
       * 소프트웨어세미나Ⅱ
