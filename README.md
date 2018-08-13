@@ -30,7 +30,7 @@
       * 프로그래밍스튜디오
       * 오픈소스SW 이해: Github 활용
       * [컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall): 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용. [[link](http://spimsimulator.sourceforge.net/)]
-      * [임베디드시스템](https://github.com/CIC-LAB/Embedded_system_2018-2)
+      * [임베디드시스템](https://github.com/CIC-LAB/Embedded_system_2018-2): 오픈하드웨어 플랫폼인 라즈베리파이와 LINUX를 활용한 IoT 중심 교육 
       * 데이터통신
       * 데이터베이스
       * VR/AR/게임제작기초: 오픈소스 SW [Unity3D](https://docs.unity3d.com/kr/2018.1/Manual/ContributingToUnity.html) 활용한 VR/AR/게임 교육
