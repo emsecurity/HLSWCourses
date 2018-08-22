@@ -32,8 +32,8 @@
       * 오픈소스SW 이해: Github 활용
       * [컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall): 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용. [[link](http://spimsimulator.sourceforge.net/)]
       * [임베디드시스템](https://github.com/CIC-LAB/Embedded_system_2018-2): 오픈하드웨어 플랫폼인 라즈베리파이와 LINUX를 활용한 IoT 중심 교육 
-      * 데이터통신
-      * 데이터베이스
+      * 데이터통신: 오픈소스 TCP & Socket Library 활용
+      * 데이터베이스: 현재 상용 데이터베이스인 MS-SQL 사용중이나 향후 mysql 또는 maria 로 변경 예정
       * VR/AR/게임제작기초: 오픈소스 SW [Unity3D](https://docs.unity3d.com/kr/2018.1/Manual/ContributingToUnity.html) 활용한 VR/AR/게임 교육
       * 디지털신호처리: 신호처리 실습을 위해 Numpy 및 Scipy 등 오픈소스 Python 라이브러리 
       * SW실전영어II
@@ -50,17 +50,17 @@
       * 시스템프로그래밍: 오픈소스 Linux에서 시스템 Call 등 Linux 시스템 프로그래밍 실습
       * 컴파일러구성
       * 오픈소스SW개발도구활용
-      * 소프트웨어특강
+      * 소프트웨어특강: 오픈소스 Python library를 활용한 최신 알고리즘 구현 및 개발 Practice
       * 텍스트정보처리: 오픈소스 SW인 SciKIT-LEARN(scikit-learn은 SciPy 위에 구축된 머신러닝을 위한 Python 모듈)을 활용
       * 머신러닝: 머신러닝 실습을 위해 Tensorflow, Scikit-learn, numpy/pandas 활용
-      * 클라우드컴퓨팅
+      * 클라우드컴퓨팅: 오픈소스 SW 클라우드 플랫폼인 OpenStack의 소개
       * [병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall): AWS Cloud *LINUX* 환경에서 실습
-      * 빅데이터응용
+      * 빅데이터응용: Python 및 R의 오픈소스 라이브러리를 활용한 데이터 분석
       * VR/AR이론
       * 게임프로그래밍
       * 증강현실프로그래밍 
       * IoT무선통신
-      * 네트워크보안
+      * 네트워크보안: 오픈소스 암호 라이브러리 실습 활용
       * IoT머신러닝: 오픈소스 IoT 플랫폼 활용
       * SW영어커뮤니케이션: Github 및 Stackoverflow 등 오픈 Q&A 플랫폼을 활용하여 영어 능슥도 향상
 
