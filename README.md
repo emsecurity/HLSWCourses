@@ -11,7 +11,6 @@
       * 자바프로그래밍II: 오픈소스 SW *Java* 개발 및 *Eclipse* 활용
       * 오픈소스 리눅스 활용: *Linux* 활용한 오픈소스 SW 소개 및 흥미 유발 과정
       * 선형대수: Python / R 오픈소스 SW 라이브러리 활용
-      * <span style="color:blue">some *blue* text</span>.
 
 * * *
 
@@ -33,7 +32,7 @@
       * 오픈소스SW 이해: Github 활용
       * [컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall): 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용. [[link](http://spimsimulator.sourceforge.net/)]
       * [임베디드시스템](https://github.com/CIC-LAB/Embedded_system_2018-2): 오픈하드웨어 플랫폼인 라즈베리파이와 LINUX를 활용한 IoT 중심 교육 
-      * 데이터통신: 오픈소스 TCP & Socket Library 활용
+      * 데이터통신:
       * 데이터베이스: 현재 상용 데이터베이스인 MS-SQL 사용중이나 향후 mysql 또는 maria 로 변경 예정
       * VR/AR/게임제작기초: 오픈소스 SW [Unity3D](https://docs.unity3d.com/kr/2018.1/Manual/ContributingToUnity.html) 활용한 VR/AR/게임 교육
       * 디지털신호처리: 신호처리 실습을 위해 Numpy 및 Scipy 등 오픈소스 Python 라이브러리 
@@ -61,7 +60,7 @@
       * 게임프로그래밍
       * 증강현실프로그래밍 
       * IoT무선통신
-      * 네트워크보안: 오픈소스 암호 라이브러리 실습 활용
+      * 네트워크보안:
       * IoT머신러닝: 오픈소스 IoT 플랫폼 활용
       * SW영어커뮤니케이션: Github 및 Stackoverflow 등 오픈 Q&A 플랫폼을 활용하여 영어 능슥도 향상
 
@@ -82,4 +81,4 @@
 
 * * *
 
-2018년 2학기 총 25개 교과목에서 오픈소스 SW를 활용함.
+2018년 2학기 **총 23개 교과목**에서 오픈소스 SW를 활용함.
