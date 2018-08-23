@@ -11,6 +11,7 @@
       * 자바프로그래밍II: 오픈소스 SW *Java* 개발 및 *Eclipse* 활용
       * 오픈소스 리눅스 활용: *Linux* 활용한 오픈소스 SW 소개 및 흥미 유발 과정
       * 선형대수: Python / R 오픈소스 SW 라이브러리 활용
+      * <span style="color:blue">some *blue* text</span>.
 
 * * *
 
