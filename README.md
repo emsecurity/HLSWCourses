@@ -58,7 +58,7 @@
       * 오픈소스SW개발도구활용
       * 소프트웨어특강: 오픈소스 Python library를 활용한 최신 알고리즘 구현 및 개발 Practice
       * 텍스트정보처리: 오픈소스 SW인 SciKIT-LEARN(scikit-learn은 SciPy 위에 구축된 머신러닝을 위한 Python 모듈)을 활용
-      * 머신러닝: 머신러닝 실습을 위해 Tensorflow, Scikit-learn, numpy/pandas 활용
+      * 머신러닝: 머신러닝 실습을 위해 Tensorflow 등 
       * 클라우드컴퓨팅: 오픈소스 SW 클라우드 플랫폼인 OpenStack의 소개
       * [병렬프로그래밍](https://github.com/jeonggunlee/Parallel_Programming_2018_Fall): AWS Cloud *LINUX* 환경에서 실습. 오픈소스 Linux 환경하에서 nvidia GPU 활용한 병렬 프로그래밍 진행.
       * 빅데이터응용: Python 및 R의 오픈소스 라이브러리를 활용한 데이터 분석
