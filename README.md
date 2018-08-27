@@ -27,7 +27,7 @@
       * C프로그래밍
       * C++프로그래밍
       * 알고리즘: 자바 및 *Eclipse* 활용
-      * 파이썬프로그래밍응용: 파이썬 오픈소스 SW 라이브러리 활용
+      * [파이썬프로그래밍응용](https://github.com/kevindev0419/2018_2_AdvPython): 파이썬 오픈소스 SW 라이브러리 활용
          * [데이터 과학자를 위한 파이썬 오픈소스 SW 라이브러리 소개](https://medium.com/activewizards-machine-learning-company/top-15-python-libraries-for-data-science-in-in-2017-ab61b4f9b4a7)
             * 핵심 라이브러리: NumPy / SciPy / Pandas
             * Visualization/시각화: Matplotlib / Seaborn / Bokeh / Plotly / SciKit-Learn
@@ -67,7 +67,7 @@
       * 증강현실프로그래밍 
       * IoT무선통신
       * 네트워크보안:
-      * IoT머신러닝: 오픈소스 IoT 플랫폼 활용
+      * [IoT머신러닝](https://github.com/kevindev0419/2018_2_IoTML): 오픈소스 IoT 플랫폼 활용
       * SW영어커뮤니케이션: Github 및 Stackoverflow 등 오픈 Q&A 플랫폼을 활용하여 영어 능슥도 향상
 
 
