@@ -35,7 +35,7 @@
             * 자연어처리: NLTK / Gensim
             * 데이터마이닝, 통계: Scrapy / Statsmodels
       * 프로그래밍스튜디오
-      * 오픈소스SW 이해: Github 활용
+      * [오픈소스SW 이해](https://github.com/emsecurity/Understandings_of_Open_Source_SW_2018_Fall): Github 활용
       * [컴퓨터구조](https://github.com/jeonggunlee/Computer_Arch_2018_Fall): 실습시에 MIPS 어셈블리 교육을 위해 오픈소스SW인 **[SPIM](https://en.wikipedia.org/wiki/SPIM)** 활용. [[link](http://spimsimulator.sourceforge.net/)]
       * [임베디드시스템](https://github.com/CIC-LAB/Embedded_system_2018-2): 오픈하드웨어 플랫폼인 라즈베리파이와 LINUX를 활용한 IoT 중심 교육 
       * 데이터통신:
