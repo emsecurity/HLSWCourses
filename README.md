@@ -47,7 +47,7 @@
       * 프로그래밍어론
       * 윈도우 프로그래밍
       * 컴퓨터네트워크
-      * [정보보호론](https://github.com/emsecurity/Information_Security_2019_Spring)
+      * [정보보호론](https://github.com/emsecurity/Information_Security_2019_Spring): 오픈소스형 공개 암호 코드 
       * 데이터마이닝 (파이썬 및 Scikit-learn 활용)
       * 빅데이터이론 (오픈소스 NoSQL 활용)
       * 데이터시각화 (오픈소스 R 라이브러리 활용)
