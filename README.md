@@ -22,7 +22,7 @@
 
 * **2학년 과정**
    * 1학기
-      * 논리회로 설계: 실습시에 회로 설계 및 시뮬레이션을 위하여 오픈소스 SW인 **[LogiSim](http://www.cburch.com/logisim/)** 활용   
+      * [논리회로 설계](https://github.com/jeonggunlee/LogicDesign): 실습시에 회로 설계 및 시뮬레이션을 위하여 오픈소스 SW인 **[LogiSim](http://www.cburch.com/logisim/)** 활용   
       * C++ 프로그래밍
       * 자료구조
       * C 프로그래밍
@@ -43,11 +43,11 @@
       * 인공지능 (오픈소스 SW Tensorflow 활용)
       * 컴퓨터그래픽스
       * 영상처리프로그래밍 (오픈소스 OpenCV 라이브러리 활용)
-      * 운영체계 (오픈소스 Linux 기반 시스템 설계)
+      * [운영체계](https://github.com/wonpyo-kim/OperatingSystems) (오픈소스 Linux 기반 시스템 설계)
       * 프로그래밍어론
       * 윈도우 프로그래밍
       * 컴퓨터네트워크
-      * 정보보호론
+      * [정보보호론](https://github.com/emsecurity/Information_Security_2019_Spring)
       * 데이터마이닝 (파이썬 및 Scikit-learn 활용)
       * 빅데이터이론 (오픈소스 NoSQL 활용)
       * 데이터시각화 (오픈소스 R 라이브러리 활용)
@@ -74,7 +74,7 @@
       * IoT플랫폼기초 (오픈소스 플랫폼인 아두이노 / 라즈베리파이 활용)
       * 소프트웨어세미나 IV (오픈소스 SW 관련 특강 포함)
       * 연구프로젝트
-      * 블록체인 (오픈소스 블럭체인 소스 활용)
+      * [블록체인](https://github.com/emsecurity/Blockchain_2019_Spring) (오픈소스 블럭체인 소스 활용)
       * 
       
 * * *
